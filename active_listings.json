@@ -1,0 +1,40 @@
+{
+  "1414184256678400045": {
+    "ign": "PotatoXI",
+    "seller_id": 301361155694133249,
+    "bin_price": "309",
+    "co": "230",
+    "notes": "- Unbanned",
+    "stats": {
+      "general": {
+        "rank": "MVP++",
+        "network_level": 282
+      },
+      "bedwars": {
+        "level": 164,
+        "fkdr": 0.0,
+        "wins": 0
+      },
+      "skywars": {
+        "level": 40,
+        "kdr": 0.0,
+        "wins": 0
+      },
+      "duels": {
+        "title": "Celestial",
+        "wins": 0,
+        "kdr": 0.0
+      }
+    },
+    "custom_colors": {
+      "embed_color": 0,
+      "bedwars_color": 15749156,
+      "skywars_color": null,
+      "duels_color": null
+    },
+    "created_at": "2025-09-07T09:43:12.638083",
+    "message_id": 1414184256678400045,
+    "channel_id": 1414016255194828983,
+    "guild_id": 1413686445255692310
+  }
+}
